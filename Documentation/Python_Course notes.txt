@@ -1,0 +1,11 @@
+Course title:  Python for Beginners Tutorial
+YouTube: https://www.youtube.com/watch?v=b093aqAZiPU&t=2105s
+
+IDE (Integrated Development Environment): e.g., visual studio code, etc. This helps in formatting code
+
+Variable naming
+must contain only letters, numbers, or underscores
+should not start with a number
+spaces are not allowed
+Cannot be keywords (e.g., break, try, etc.)
+Short and descriptive e.g., red bucket, etc.
